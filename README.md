@@ -1,0 +1,1 @@
+# Curiosidades_Livro_Pense_Em_Python_Algoritmos
